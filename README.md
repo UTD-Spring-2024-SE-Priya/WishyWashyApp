@@ -8,5 +8,4 @@ WishyWashy
 3. All testcases passed
 
 
-Invite 
-1.This is our used case for group invite/add for our project
+Please run the correct version, the Phase 5 version has the wrong commit
